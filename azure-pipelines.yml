@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Joshna_Project
+pool: Test-my-system
 
 
 steps:
