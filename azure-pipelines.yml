@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Test-my-system
+pool: Maven_Project
 
 
 steps:
